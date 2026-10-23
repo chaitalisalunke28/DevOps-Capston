@@ -1,6 +1,6 @@
 # DevOps Capstone Project
 
-[![Build Status](https://github.com/YOUR_USERNAME/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/YOUR_USERNAME/devops-capstone-project/actions/workflows/ci-build.yaml)
+[![Build Status](https://github.com/chaitalisalunke28/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/chaitalisalunke28/devops-capstone-project/actions/workflows/ci-build.yaml)
 
 ## Project Description
 
